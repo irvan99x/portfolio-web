@@ -1,0 +1,52 @@
+.project__container {
+  width: 850px;
+}
+
+.project__card {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1rem 1.5rem;
+  border-radius: 1.5rem;
+  margin-bottom: var(--mb-3);
+}
+
+/* .project__img {
+    width: 60px;
+    border-radius: 3rem;
+    margin-bottom: var(--mb-1);
+  } */
+
+.project__img {
+  width: 100%;
+}
+
+.project__name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-0-25);
+  text-align: center;
+}
+
+.project__description {
+  font-size: var(--small-font-size);
+}
+
+/* Swiper Class */
+.swiper-pagination-bullet {
+  background-color: var(--text-color) !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--title-color) !important;
+}
+
+/* for Large Devices */
+@media screen and (max-width: 992px) {
+  .project__container {
+    width: initial;
+  }
+
+  .project__card {
+    padding: 1.25rem 1.5rem;
+  }
+}
