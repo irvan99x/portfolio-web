@@ -132,7 +132,7 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Software Engineer</h3>
+                <h3 className="qualification__title">IT Support</h3>
                 <span className="qualification__subtitle">
                   PT. Naqif Solusi Indonesia - Jakarta
                 </span>
