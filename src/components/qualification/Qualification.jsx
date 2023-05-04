@@ -178,7 +178,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Staff Kasad Non ASN</h3>
                 <span className="qualification__subtitle">Mabes AD</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i> 2020 - 2023
+                  <i className="uil uil-calender-alt"></i> 2021 - 2023
                 </div>
               </div>
             </div>
