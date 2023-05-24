@@ -72,7 +72,7 @@ const Contact = () => {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Tulis Project</h3>
+          <h3 className="contact__title">Tulis Keperluan</h3>
 
           <form
             ref={form}
