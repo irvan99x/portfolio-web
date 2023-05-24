@@ -1,4 +1,4 @@
-import Serti1 from "../../assets/dicoding1.png";
+import Serti1 from "../../assets/sertiteknisi.png";
 import Serti2 from "../../assets/toefl1.png";
 import Serti3 from "../../assets/toefl2.png";
 import Serti4 from "../../assets/teknisikomputer.png";
@@ -13,27 +13,29 @@ export const Data = [
   },
   {
     id: 2,
-    image: Serti6,
-    title: "Membuat Aplikasi Web dengan React - Dicoding",
-  },
-  {
-    id: 3,
-    image: Serti5,
-    title: "Full Stack Mobile Apps Development - Udemy",
-  },
-  {
-    id: 4,
+
     image: Serti2,
     title: "Test Of English as a Foreign Language - IES Foundation",
   },
   {
-    id: 5,
+    id: 3,
+    image: Serti4,
+    title: "Supervisor Teknisi Komputer - BNSP",
+  },
+  {
+    id: 4,
     image: Serti1,
-    title: "Membuat Flutter Pemula - Dicoding",
+    title: "Supervisor Teknisi Komputer - BNSP",
+  },
+  {
+    id: 5,
+    image: Serti6,
+    title: "Membuat Aplikasi Web dengan React - Dicoding",
   },
   {
     id: 6,
-    image: Serti4,
-    title: "Supervisor Teknisi Komputer - BNSP",
+
+    image: Serti5,
+    title: "Full Stack Mobile Apps Development - Udemy",
   },
 ];

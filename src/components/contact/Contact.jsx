@@ -106,7 +106,7 @@ const Contact = () => {
 
             <div className="contact__form-div contact__form-area">
               <label htmlFor="" className="contact__form-tag">
-                Project
+                Keperluan
               </label>
               <textarea
                 name="project"
@@ -114,7 +114,7 @@ const Contact = () => {
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Tulis projectnya ..."
+                placeholder="Tulis keperluannya ..."
               ></textarea>
             </div>
 
