@@ -1,7 +1,7 @@
 
 # Portfolio Website using React
 
-Pelajari kemampuan dasar dalam membuat aplikasi React seperti element, component, props, event handling, dan state.
+My Portfolio Website was created using Javascript Library, namely React and I deployed it using Vercel.
 
 
 ## Run Locally
